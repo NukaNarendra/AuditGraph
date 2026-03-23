@@ -1,0 +1,8 @@
+langchain
+langgraph
+neo4j
+google-generativeai
+pydantic
+python-dotenv
+unstructured
+streamlit
